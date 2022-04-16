@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Simran Vedpathak
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Nothing :)
-- 📫 How to reach me :-i have dropped my linkedin id check it out
+- 👋 Hi, This is @Simran_Vedpathak
+- 👀 I'm Interested in Competitive Programming
+- 🌱 Currently learning DSA
+- My target is to become CM on CF by 4th Year of by UG
+- 💞 Looking to collaborate on Nothing :)
+- 📫 How to reach me :I have dropped my linkedin id, check it out
+- All Algorithms which I have learnt till date and Questions link+Code will be available in my Repo
 
 <!---
 SimranSv/SimranSv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
