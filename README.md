@@ -4,7 +4,7 @@
 </p>
 
 
-[![Linkedin: Simran Vedpathak](https://img.shields.io/badge/-simran-vedpathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simran-vedpathak-b4a291207/)]((https://www.linkedin.com/in/simran-vedpathak-b4a291207/))  [![GitHub Simran](https://img.shields.io/github/followers/Simransv?label=follow&style=social)](https://github.com/Simransv)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-SimranVedpathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simran-vedpathak-b4a291207/)](https://www.linkedin.com/in/simran-vedpathak-b4a291207/) [![GitHub Simran](https://img.shields.io/github/followers/Simransv?label=follow&style=social)](https://github.com/Simransv)
 
 
 ### <img src="https://media.giphy.com/media/nBvri64uO4sX6/giphy.gif" width="70"> A little more about me...  
