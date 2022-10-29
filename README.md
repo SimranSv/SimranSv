@@ -1,5 +1,5 @@
 <h2> Hi, This is Simran Vedpathak ! <img src="[[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media.giphy.com/media/G3FNI3FneNjiw/giphy.gif](https://media.giphy.com/media/G3FNI3FneNjiw/giphy.gif))" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/APYxbo6wMV5WE/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/APYxbo6wMV5WE/giphy.gif" width="350">
 <p><em>I am a keen Learner,Always up for new challenges<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Competative Programmer <a href="https://codeforces.com/profile/Lazy1402">Codeforces</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
