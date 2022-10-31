@@ -1,6 +1,6 @@
 <h2> Hi, This is Simran Vedpathak ! <img src="[[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif]" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" width="350">
-<p>I am a keen Learner,Always up for new challenges<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Competative Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<p>I am a keen learner,always up for new challenges<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Competative Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </p>
 
 
