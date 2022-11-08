@@ -13,7 +13,7 @@
 const simran = {  
   code: [C++,C,Javascript],
   tools: [React]
-  challenge: "Specialist on Codeforces before the end of the year 2022";
+  challenge: "Specialist on Codeforces before the end of the year 2022"
 }
 ```
 
