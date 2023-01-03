@@ -12,7 +12,8 @@
 ```javascript
 const simran = {  
   code: [C++,C,Javascript],
-  tools: [React],
+  tools: [css,html],
+  backend:[Nodejs]
   challenge: "Specialist on Codeforces before the end of the year 2022"
 }
 ```
