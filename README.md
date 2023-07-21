@@ -11,10 +11,10 @@
 
 ```javascript
 const simran = {  
-  code: [C++,C,Javascript],
-  tools: [css,html],
-  runtime:[Nodejs]
-  challenge: "Specialist on Codeforces before the end of the year 2022"
+  code: [C++,C,Javascript,Java],
+  tools: [eclipse ide, vs code, figma],
+  FrameWork:[Spring, Spring Boot]
+  challenge: "Upper Bound Specialist on Codeforces before the end of the year 2023"
 }
 ```
 
