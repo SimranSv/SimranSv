@@ -12,10 +12,7 @@
 ```javascript
 const simran = {  
   code: [C++,C,Javascript,Java],
-  tools: [eclipse ide, vs code, figma],
-  FrameWork:[Spring, Spring Boot]
-  challenge: "Upper Bound Specialist on Codeforces before the end of the year 2023"
-}
+  tools: [eclipse ide, vs code, figma]}
 ```
 
 <img src="https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
